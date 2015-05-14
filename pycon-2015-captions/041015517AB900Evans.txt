@@ -1,0 +1,98 @@
+  .
+  >> Hello!
+  [Applause]
+  Welcome to PyCon everyone!
+  How exciting is it to be at Pycon?
+  I'm not sure I believe you.  How excited are you to be at Pycon?
+  I'm so excited.  Who is here at Pycon for the first time?
+  Wow!
+  That's amazing!
+  Last year was my first year at Pycon.  So, I am super stoked that you're here for the first time.  The things that I'm going to say here are mostly going to be for you.
+  I don't know what happened to my slides.  There they are.  We found them!
+  One quick administrative note, Jessica Mckellar's talk is cancelled.  The talk that she is hosting is not cancelled.  The dinner she's hosting is not cancelled.  So, I want to talk a little bit about something that Pycon does to welcome you.  One thing do you see on the side where there -- like the words that I say are being typed and appearing on the screen?
+  That's amazing.  This year, Pycon has live captioning for all talks.
+  [ Cheers and applause ]
+  Right?
+  This is because snakes are deaf.  And some Python sets are also deaf or speak English as like a second language or like weren't paying attention for a second and missed something.  We've done live captioning for all talks.
+  Something else we're doing this year for the second time I believe is child care.  If you're a parent you need child care, please look out for it next year.  I'm really stoke the that we've been able to do this.  I want to talk -- one thick that we do have code of conduct.  Please be --
+  [Applause]
+  Please be mindful of the code of conduct it's in your program and also on the website.  And there's contact information if there's anything, please feel free to talk to any Pycon staff member at any time.
+  Another thing that I'm super stoked about is there's $200,000 in financial aid that Pycon put together.
+  [ Applause ]
+  This is like a loud like almost 300 people to come to Pycon more than 10% which is pretty incredible.  Special thanks to DropBox the financial aid sponsor.  And as always the Python software foundation.  Few things that already happened not to make you feel said that you missed them just so you know they might be there for next year.  There are 36 tutorial, is that happened where people learned all kinds of amazing stuff.  There is eight sponsor workshops.  Which are a pretty fun time because they're free.  And like if you're at the tutorials you can go to them learn something cool.
+  There was the language summit where people work on the Python programming language like make it better.  There's the education summit, I was just talking to someone about it on the bus this morning and I learned that like, there were like teachers from all over who are -- people who are teaching Python and like telling each other like, here is how we train people to teach programming, here are the tools that we're using.  And it sounds like just this super awesome way for people to get together and talk about teaching Python, I'm happy that that happened.
+  And if you're interested in that, I hope it will happen again next year and you can go.
+  There was a Django girls workshop yesterday where people were learning to program for the first time.  That people who learn to program, yesterday, are like here at the conference which is amazing F. you're at the Django girls workshop then welcome!
+  [Applause]
+  All right.  I want to talk about some things that are going to happen in the next few days at Pycon I've split it up, even though mostly all fit into all categories.  We're going to learn some amazing stuff and meet delightful people and give back.  We're going to start with learn can awesome stuff!
+  Because there's so much awesome stuff to learn.  There are a lot of talks, I'm not going to like go overall the topics because there's a million of them that you know that you're all like so excited, oh, know, what talks am I going to go to, they all look too goods there are five tracks and it's like amazing.  One thing that I love there are talks about huge variety of topics, so like we have talks about like satellites and Python or games and Python and 3D printing and Python and talks what are like not exactly about Python but things that are relevant to Python programmers like Git or Russ another programming language.  Then there are like talks about more around the Python community like software and ethics and like deafness and I'm really excited.  And one thing I'm excited to do is to go to talks he bout things like I haven't -- that I don't know anything I don't know anything about.  It's going to be the best.
+  One thing I'd love you to do is ask questions and talks with me.  Who always feels totally confident about asking questions is always, like, that's like -- I see like five of you.
+  [Laughter]
+  Which is awesome.  But, yeah, sometimes like, oh, no, I can't ask a question my question will be totally dumb.  So, one of my goals for Pycon is like think of something that like I don't understand or I want to know more about, yeah, I have a question.  I want to know that thing.  And I would love it if you did that with me.
+  One other thing that I'd love for you to think about as you're at Pycon to consider like giving a talks next year or submitting a talk.  I'm going to tell you a short story about that.
+  Last year was my first year at Pycon and I was like really excited about data analysis and Python like I want to give a talk about it, there were two main problems.  One was that I was not like the world expert in data analysis and Python which I thought was a huge problem, I cannot possibly give a talk.
+  Second problem people had like previously discussed this at Python, also not the world expert this is impossible the then it turned out that all of that was false.
+  And that people actually loved it as we just discussed, lots of people are at Pycon for the first time they don't know what happened last year and people mostly care what you can explain something well.  Like it's okay to be a world expert.  Please consider like giving a talk next year while you're watching talks.  Sooner time to even give a talk is like, today, if you're interested in giving a lightning talk there are tine up at the registration desk.  And if you sign up to give a lightning talk you'll hear back around 2:00 or 3:00 is what the lightning talks chair told me.
+  So, lightning talks are super fun to give they're like lower stress, they don't last that long.  And they're super interesting.  I would love to hear what you have to say.  So, please consider submitting a lightning talk.
+  Another one of my favorite things is open spaces.  Who has been to an open space?
+  Open spaces!
+  So, the way open spaces work is they are things that we organize at Pycon, you pick a topic and time and room there's an open space sign up board outside, and then you see who shows up.  And then you learn and you meet some people who are interested in your topic.
+  People have run open spaces about all kinds of things, you can run one about unit testing or about like scientific Python or about how to organize like local user groups, you can like I run a user group in Minneapolis and I run one in Montreal what can we be doing better.  You can also have open spaces about things that are not technical at all.  Like you can have like a dance party probably -- I haven't checked about the rules of dance parties.  One thing that happened last year was people did like nail painting where people paint like the Pycon logo on their nails or pythons like the greatest, right, like nothing could be better!
+  So, open spaces are super fun.  And like please consider going to them and organizing one.
+  The hallway is a good place to meet things.  I want to put this year because sometimes I feel like I have to go to talks all the time.  And the talks are amazing.  But it's okay to like also like meet all of the people around you because like if you look around you, it's a good sense hanging out in the hall.
+  That's totally okay to do.  The sprints!
+  The sprints may or may not come up again because I'm so excited about them.  So, the sprints are for four days after the main conference from Monday to Thursday.  And the first time I went to like sprints at a programming conference, I was like, oh, no, what do I do.  What do I work on?
+  I'm super confused.  And like, it can be kind of hard.  So one thing that we're doing this year is there's an introduction to open source workshop on Sunday from 5:30 to 8:30 if you're interested --
+  [Applause]
+  So if you're interested in participating in the sprints but like maybe nervous about aspects please come to that.  And there will be a lot much people able to help you.  And to help you mic awesome contributions and to, like, learn lots of things.
+  There's a poster session which is amazing so my favorite thing about the poster section I think is that there are people there and I can go up to them interrogate them about things that -- interrogate them about things that they're interested in, in a good way.
+  [ laughter ]
+  But like, it's a talk, someone telling you things then like you're kind of stuck with whatever they're telling you who is probably awesome.
+  In poster session, that being on your poster, I need to know about.
+  That like -- you can ask lots of questions and find out lots of stuff and people are there because they want to talk to you so you don't need to feel bad about asking questions.  It's really amazing.  And I'm very excited about it.  I wish I'd spent Mr. Time at it last year and -- more time at it last year and I'm going to spend more time last year Sunday from 10:00 to 1:00.
+  While we're learning stuff, there are bunch of kids who are learning Python which is super great!
+  [Applause]
+  I'm so pleased about this.  It's full this year, if you have kids who you think would benefit from learning Python, obviously, get them maybe consider bringing them next year hopefully do it again.
+  Now we get to talk about meeting awesome people.  Yeah!
+  Okay.  So, I'm from Montreal.  I live here.  I got into Python community bass I started to going to the Montreal Python user group which is like the best and I was like, oh, man, Pycon came to Montreal the best possible thing, right?
+  And my favorite thing in the last couple of days is seeing people coming to the city that I live in and seeing them like discover it.  Like, oh, way, it was really good or it was really bad, having strong opinions about it or experiences with like, they're speaking French and I don't know French and I don't know now or I get to practice my French I learned in school.  Please take some time to explore the city and go outside, it's super walkable, you can like walk up the mountain, there's a lot to see.  There's I believe a tourism Montreal booth around here which is like -- tourism Montreal has awesome things to say.  The other weekend I was, like, I don't know, I didn't know what to do I went to the tourism Montreal site which is ridiculous because I live here, yeah, you should go snowshoeing, it was amaze.  Like apparently tourism Montreal knows what's up.
+  [ laughter ]
+  Also just like wander around go to great restaurants, we have really great restaurants like you have to leave the conference complex and to go great restaurants.  It's the rules.  There's always explore Montreal thing that is going to happen if you -- I think you need to sign up, I'm not actually totally sure, you should check.  At 10:15 a.m. at registration there are going to be more organized things in the city.
+  Another awesome place to meet people is the exhibition hall.  It's kind of surprising to me how much I love the exhibition haul I'm going to tell you all about it.
+  So, one thing that I love is the community sponsors.  Pycon partners with community organization like Django girls or the center for open science and one of the best things at Pycon as you probably all know is that a lot of the people who run the organizations that you're interested in are here at Pycon today and probably in this room.  So like if you're interested in like starting a PyLadies group in your city or scientific Python conferences like the people that are run that are here you can talk to them about chit is the greatest.  So I did a lot of that last year I'd go like, I want to know more about like OpenHatch and talk to the OpenHatch people learn about what they do.  It was like amazing.
+  Please go do that.  Also there -- amazing sponsors which I only put two hearts but that wasn't enough.  We're going to apply for the sponsors later it's going to happen, don't worry.  Don't worry.
+  So, yeah, the sponsor do all kinds of cool things, right?
+  Like they're like companies who do work and lot of like developers and you can talk to them ask them about their work and it's really fun.  So, please go do that.  I really like to do that.
+  Also has a jobs fair if you're looking for a job but you think you might be later.  It's like super good to go talk to companies find out what they do.
+  Pycon wants to support like start ups like entrepreneurship and people starting their own thing there is startup row which is a bunch of startups that use Py on this that are in the -- Python that is in the exhibition hall, six Saturday and talk to them find out like what their experience is like, how starting a start up isn't for them.
+  And if you have a start up that uses Python you can consider to be a part of Pycon for next year.
+  There are two awesome Pycon dinners.  These both have like Pycon trivia, I went to one, it was the best.  We started out with questions on Python, yeah, I've totally got this, I know about Python, right?
+  Look they started getting harder I found out I didn't know many of the things about Python that were in the trivia night.  Great thick to do if you meet people, because like you go to dinner then having dinner with a bunch of delightful Pythonista.  I think one is full, one is not.  And there is still a little bit of space.  You can buy ticket as part of the Pycon registration site.  We're back to the sprints.  The thing I want to say about the sprints here is, there are all these open source maintainers and the sprints and hang out with them learn how to contribute and be really cool, I'm just really excited about the sprints I wanted to bring it up again.
+  There is going to be a PyLadies lunch again this year.  This is super great way to hang out with a wonderful women who write Python.  I went to it last year.  I'm going to it again this year.  It's a super great time.  I think you need to sign up, yes.  I heard emphatic "Yes".  It's going to be awesome.  Now I want to talk he bout giving back to the community and how we do that.  So, there's a 5K charity run at 7:00 a.m. so -- which is super great.  I would love fit you signed up for this.  There's still lots of space to sign up.  All of the proceeds for this go to Autism speaks.  Autism speaks which is super great cause.  This is good place to meet other people that wake up at 7:00 a.m. in the morning, which is a pretty awesome group of people, right?
+  [ laughter ]
+  Like what could be better?
+  There is a charity auction again this year where the proceeds go to PyLadies.  One thing I learned there's a 26 pound gummy snake which is probably a good enough reason to go by itself.
+  [ laughter ]
+  There are also lot of other awesome auction items.  So, another way you can give back to volunteer.  There are lot of amazing volunteers.
+  Can we get a huge around of applause for the volunteers?
+  [ Cheers and applause ]
+  Python would not be possible without volunteers.  Pycon run by volunteers.  I like to thank the chair and cochair, Diana Clark.  Who do an amazing amount of work.
+  [ Cheers and applause ]
+  Thank you so much.  Also like to thank the speakers who like come to Pycon share all of the awesome things they know with us.  It's amazing.  Who is going to give a talk this year, actually?
+  [Applause]
+  That's amazing!
+  I'm so excited.  I'd like to thank the Python software foundation who like provides the financial backing for Pycon without which Pycon would not be possible.  One thing that I think is really cool about the PSF is recently I was running -- I'm often like the PSF is this big thing that does a lot of awesome stuff, like, what does that have to do with me, right?
+  Then I found out that they actually give you funding for like local workshops in your area I was organizing a day-long Python workshop, I was like, hey, could we get funding to help run our workshop?
+  Yeah, of course.  It was like super awesome. so, the PFS is like there for you.
+  [Applause]
+  Obviously a huge round of applause for the sponsor.
+  [ Cheers and applause ]
+  Conferences take like a shocking amount of money to put on.
+  [ laughter ]
+  Like, for example, without sponsors we not have live captioning for talks, just like so many things at Pycon would not exist, like the whole thing, right?
+  So, like, thank you so much to all the sponsors.
+  So, now it's time for the opening keynote.  I'm pretty excited because we were just talking about giving back, right?
+  So, our opening keynote is Catherine Bracy from code for America, my understanding is it's all about like, as programmers like what can we do to make our government better.  Which is super cool.  So she's the director of the community organizing there, I'm very, very excited to hear from her.
+  Thank you so much again.
+  [ Applause ]
+  
